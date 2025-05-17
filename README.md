@@ -1,4 +1,4 @@
-# React Password Generator
+# Reactjs Password Generator
 
 A simple and customizable **Password Generator Web App** built with **Reactjs**. Users can choose the password length and whether to include **numbers** and **special characters**.
 
